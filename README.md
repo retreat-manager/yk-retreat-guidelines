@@ -6,7 +6,7 @@
 
 # Retreat Guidelines
 
-### The Lhakhang (temple) is currently closed
+#### The Lhakhang (temple) is currently closed
 
 ## Respect for the Lhakhang (temple)
 
