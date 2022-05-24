@@ -8,7 +8,7 @@
 
 ## Respect for the Lhakhang (temple)
 
-- [ ] use the lhakhang *only* on your day for shower and laundry
+- [ ] use the lhakhang *only* on your day and *only* for shower and laundry
 - [ ] clearn bathroom after use, spray down with alchol
 - [ ] no cooking in the kitchen
 - [ ] do not use temple phone unless you've spoke with the caretaker first
