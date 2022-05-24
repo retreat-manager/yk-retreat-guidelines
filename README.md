@@ -1,5 +1,3 @@
-# yk-retreat-guidelines
-
 [//]: # RETREAT GUIDELINES last updated 5/24/22
 
 # Retreat Guidelines
