@@ -2,14 +2,14 @@
 
 [//]: RETREAT GUIDELINES
 
-	# Retreat Guidelines
-	
-	## The temple is currently closed
+# Retreat Guidelines
 
-	## Respect for the Lhakhang (temple)
+### The Lhakhang (temple) is currently closed
 
-	## Respect for other retreatants
+## Respect for the Lhakhang (temple)
 
-	## Respect for the land
+## Respect for fellow retreatants
 
-	## In case of an emergency
+## Respect for the land
+
+## In case of an emergency
