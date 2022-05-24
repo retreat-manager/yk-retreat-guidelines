@@ -1,6 +1,6 @@
 # yk-retreat-guidelines
 
-[//]: RETREAT GUIDELINES
+[//]: # RETREAT GUIDELINES
 
 # Retreat Guidelines
 
