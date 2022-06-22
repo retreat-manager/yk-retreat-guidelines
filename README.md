@@ -34,7 +34,6 @@
 - [ ] Please do not wear strong perfumes or fragrances while at the temple
 - [ ] make sure to have you garbage to the shed by Wednesday evening
 - [ ] weekly checkin involves: how are you doing and if you need anything; water
-- [ ] 
 
 ## In case of an emergency
 
