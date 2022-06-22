@@ -7,10 +7,12 @@
 ## Respect for the Lhakhang (temple)
 
 - [ ] use the lhakhang *only* on your day and *only* for shower and laundry
-- [ ] clearn bathroom after use, spray down with alchol
+- [ ] respect access hours of 9am to 5pm
+- [ ] clearn bathroom after use, leave it as you found it.
 - [ ] no cooking in the kitchen
 - [ ] do not use temple phone unless you've spoke with the caretaker first
 - [ ] communicate with lhakhang caretaker if you need assitance
+- [ ] must checkin in weekly via phone, text or on Lhakhang access day
 
 ## Respect for fellow retreatants
 
@@ -27,7 +29,15 @@
 - [ ] don't collect firewood from the land
 - [ ] *no* fires outside of the cabin: stove, fire place, candle, etc
 
+## Additional items
+
+- [ ] Please do not wear strong perfumes or fragrances while at the temple
+- [ ] make sure to have you garbage to the shed by Wednesday evening
+- [ ] weekly checkin involves: how are you doing and if you need anything; water
+- [ ] 
+
 ## In case of an emergency
 
-- [ ] first, talk to the caretaker (719-256-0363) or if emergency call 911
+- [ ] first, make sure you have read thru emergency protocol material
+- [ ] second, talk to the caretaker (719-256-0363) or if emergency call 911
 - [ ] second, if unable to reach the caretaker, call David Lindsey (719-256-4400) or Pamela (719-207-1207)
