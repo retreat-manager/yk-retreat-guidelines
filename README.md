@@ -2,7 +2,7 @@
 
 # Retreat Guidelines
 
-### *The Lhakhang (temple) is currently closed*
+### *Access to the Lhakhang (temple) is from 9 am to 12 pm on your scheduled day*
 
 ## Respect for the Lhakhang (temple)
 
