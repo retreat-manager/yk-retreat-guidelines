@@ -38,5 +38,4 @@
 ## In case of an emergency
 
 - [ ] first, make sure you have read thru emergency protocol material
-- [ ] second, talk to the caretaker (719-256-0363) or if emergency call 911
 - [ ] second, if unable to reach the caretaker, call David Lindsey (719-256-4400) or Pamela (719-207-1207)
