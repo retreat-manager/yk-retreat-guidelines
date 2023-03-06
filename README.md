@@ -8,7 +8,7 @@
 
 - [ ] use the lhakhang *only* on your day and *only* for shower and laundry
 - [ ] respect access hours of 9am to 5pm
-- [ ] clearn bathroom after use, leave it as you found it.
+- [ ] clean bathroom after use, leave it as you found it.
 - [ ] no cooking in the kitchen
 - [ ] do not use temple phone unless you've spoke with the caretaker first
 - [ ] communicate with lhakhang caretaker if you need assitance
@@ -24,8 +24,6 @@
 
 ## Respect for the land
 
-- [ ] visitors are *not* allowed to drive up to the temple at this time
-- [ ] keep 'gate' (prayer flags) closed at all times
 - [ ] don't collect firewood from the land
 - [ ] *no* fires outside of the cabin: stove, fire place, candle, etc
 
@@ -38,5 +36,5 @@
 ## In case of an emergency
 
 - [ ] first, make sure you have read thru emergency protocol material
-- [ ] second, talk to the caretaker (719-256-0363) or if emergency call 911
+- [ ] second, talk to the caretaker, Kegan, (320) 293-1135 or if emergency call 911
 - [ ] second, if unable to reach the caretaker, call David Lindsey (719-256-4400) or Pamela (719-207-1207)
