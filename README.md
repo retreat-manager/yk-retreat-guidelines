@@ -2,7 +2,7 @@
 
 # Retreat Guidelines
 
-### *Access to the Lhakhang (temple) is from 9 am to 12 pm on your scheduled day*
+### *Access to the Lhakhang (temple) is from 9 am to 5 pm on your scheduled day*
 
 ## Respect for the Lhakhang (temple)
 
@@ -12,7 +12,7 @@
 - [ ] no cooking in the kitchen
 - [ ] do not use temple phone unless you've spoke with the caretaker first
 - [ ] communicate with lhakhang caretaker if you need assitance
-- [ ] must checkin in weekly via phone, text or on Lhakhang access day
+- [ ] checkin weekly via text, so we know you are all right and don't need anything.
 
 ## Respect for fellow retreatants
 
@@ -31,7 +31,7 @@
 
 - [ ] Please do not wear strong perfumes or fragrances while at the temple
 - [ ] make sure to have you garbage to the shed by Wednesday evening
-- [ ] weekly checkin involves: how are you doing and if you need anything; water
+- [ ] weekly checkin involves: how are you doing (not sick) and if you need anything, ie. water
 
 ## In case of an emergency
 
