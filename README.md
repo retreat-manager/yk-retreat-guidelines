@@ -2,13 +2,11 @@
 
 # Retreat Guidelines
 
-### *Access to the Lhakhang (temple) is from 9 am to 5 pm on your scheduled day*
+### *Access to the Lhakhang (temple) is on your scheduled day*
 
 ## Respect for the Lhakhang (temple)
 
 - [ ] use the lhakhang *only* on your day and *only* for shower and laundry
-- [ ] respect access hours of 9am to 5pm
-- [ ] clean bathroom after use, leave it as you found it.
 - [ ] no cooking in the kitchen
 - [ ] do not use temple phone unless you've spoke with the caretaker first
 - [ ] communicate with lhakhang caretaker if you need assitance
